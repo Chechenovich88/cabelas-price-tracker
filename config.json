@@ -1,0 +1,12 @@
+{
+  "price_limit": 199.99,
+  "sizes": [
+    "8.5",
+    "9"
+  ],
+  "check_hours": 6,
+  "products": [
+    "Cabela's Trans Alaska",
+    "Cabela's Saskatchewan"
+  ]
+}
